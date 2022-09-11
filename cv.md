@@ -11,3 +11,14 @@ I enrolled in courses to learn a new profession.  Thanks to the knowledge gained
 * HTML, CSS
 * GitHub
 * Adobe Photoshop, Illustrator
+## **Code example:**
+```
+  function multiplication (a, b) {
+    return a * b;
+  }
+```
+## **Experience**
+## **Education**
+* University: Brest State Technical University
+## **English level**
+My level of English is A0. I am learning the language during the course.
